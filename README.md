@@ -1,2 +1,3 @@
-# test
-测试
+<script>
+    document.getElementById("zzz");
+</script>
